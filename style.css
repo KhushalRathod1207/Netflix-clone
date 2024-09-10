@@ -104,7 +104,7 @@ nav button {
 }
 
 .btn1 {
-    padding: 3px 8px;
+    padding: 6px 22px;
     font-weight: 800;
     font-size: 14px;
     cursor: pointer;
@@ -112,6 +112,8 @@ nav button {
     background-color: red;
     border: none;
     border-radius: 5px;
+    margin-top: 9px;
+    
 }
 
 .text_btn {
