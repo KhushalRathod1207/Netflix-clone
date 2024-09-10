@@ -25,7 +25,7 @@ Netflix Clone project! Netflix is a global streaming platform offering a wide ra
 
 
 
-# [Live Demo💥]( https://khushalrathod1207.github.io/Netflix-clone/)
+# [Live Demo💥](https://khushalrathod1207.github.io/Netflix-clone/)
 
 ## Description
 
